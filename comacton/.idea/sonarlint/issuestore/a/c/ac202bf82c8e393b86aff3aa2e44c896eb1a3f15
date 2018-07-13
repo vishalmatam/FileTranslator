@@ -1,0 +1,13 @@
+
+Zsquid:S16124"=Replace this lambda with method reference 'Objects::nonNull'.(³æB8©Î¥âÈ,
+„squid:S1488("gImmediately return this expression instead of assigning it to the temporary variable "outputFileNames".(ØÕµh8½ğšàÈ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(½¦ÿÿÿÿÿ8½ğšàÈ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(±¼àúÿÿÿÿ8½ğšàÈ,
+Ysquid:UselessImportCheck".Remove this unused import 'java.util.Objects'.(¼¸õ›8©Î¥âÈ,
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆñŠÎ8½ğšàÈ,
+dsquid:S2142-"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8½ğšàÈ,
+gsquid:S2147/"DCombine this catch with the one at line 45, which has the same body.(åşŒóùÿÿÿÿ8½ğšàÈ,
+Fsquid:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ğšàÈ,
+Fsquid:S11480"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ğšàÈ,

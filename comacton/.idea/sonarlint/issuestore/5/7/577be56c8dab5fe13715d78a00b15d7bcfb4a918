@@ -1,0 +1,10 @@
+
+Bsquid:S16594"$Declare "suffix" on a separate line.(¤ô¾Š8ù¡³áÈ,
+esquid:S2259""BA "NullPointerException" could be thrown; "urlc" is nullable here.(ƒÊÂşûÿÿÿÿ8Ûÿ£áÈ,
+Fsquid:S1148("#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÕçìàÈ,
+isquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(ç§êó8êƒµáÈ,
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆñŠÎ8½ğšàÈ,
+isquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(›¤Ø8åµğàÈ,
+Fsquid:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ûÿ£áÈ,
+Nsquid:S1068
+"+Remove this unused "pattern" private field.(íÉ´ûúÿÿÿÿ8ÑæÛàÈ,
